@@ -1,0 +1,146 @@
+.header{
+
+	margin: 5px;
+	color:red; 
+	font-family: 'Diplomata SC', cursive;
+	font-size: 46px;
+	text-shadow: 5px 3px white;
+	padding: 10px;
+	border-bottom: 2px solid gray;
+
+	
+}
+
+h1{
+	font-size: 46px;
+	text-align: center;
+}
+
+
+
+.img{
+
+	background-image: url("../images/80.jpg");
+
+}
+
+.score{
+	
+	
+	width: 200px;
+	height: 100px;
+	background-color: #ffcccc;
+	border:2px solid black;	
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+
+}
+
+.info{
+
+	width: 600px;
+	height: 500px;
+	background-color: #ffccff;
+	border:2px solid black;	
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding: 5px;
+	font-size: 22px;
+	
+
+}
+
+
+.score3{
+
+	width: 130px;
+	height: 120px;
+	background-color: #ccffff;
+	border:2px solid black;	
+	margin-left: 20px;
+	float:left;
+	position:relative;
+	left:220px;
+
+}
+
+.score2{
+
+	width: 200px;
+	height: 120px;
+	background-color: #ccffff;
+	border:2px solid black;	
+	margin-left: 20px;
+
+	
+
+}
+
+
+
+.color{
+
+	width: 200px;
+	background-color: #ffcccc;
+	border:2px solid black;	
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+}
+
+.imag{
+	margin:10px 10px 10px 0;
+	padding: 3px;
+	width: 150px;
+	height:150px;
+	border: 2px solid black;
+
+
+}
+
+.footer{
+	position:fixed;
+	min-width: 100%;
+	max-height:40px;
+	bottom: 0px;
+	text-align: center;
+	background-image: url("../images/Ydau.jpg");
+	color: white;
+	font-size: 16px;
+	margin-top:10px;
+}
+
+.marg{
+
+	margin-left: 20px;
+}
+
+#ranNbr{
+
+	font-size: 40px;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+#wins{
+	margin: 5px 0 10px 3px;
+	font-size: 22px;
+}
+
+#losses{
+	margin: 3px;
+	font-size: 22px;
+
+}
+
+#scr{
+
+	margin: 5px 5px 10px 10px;
+	font-size: 22px;
+}
+
+
+
