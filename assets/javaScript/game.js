@@ -13,14 +13,6 @@ $(document).ready(function(){
 	var grn;
 
 
-	// var nbr = Math.floor(Math.random()*113) + 18;
-	// var rdVal = Math.floor(Math.random()*12)+1;
-	// var blVal = Math.floor(Math.random()*12)+1;
-	// var yel = Math.floor(Math.random()*12)+1;
-	// var grn = Math.floor(Math.random()*12)+1;	
-	
-
-
 	function setNbr(){
 
 		rdVal = Math.floor(Math.random()*12)+1 ;
